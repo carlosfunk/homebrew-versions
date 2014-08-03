@@ -1,6 +1,6 @@
 require 'formula'
 
-class Antlr < Formula
+class Antlr34 < Formula
   homepage 'http://www.antlr.org/'
   url "https://raw.githubusercontent.com/antlr/website-antlr3/gh-pages/download/antlr-3.4-complete.jar"
   sha1 '5cab59d859caa6598e28131d30dd2e89806db57f'
